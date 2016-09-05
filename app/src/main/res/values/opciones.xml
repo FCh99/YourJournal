@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Journals">
+        <item></item>
+        <item>El Pais</item>
+        <item>El Mundo</item>
+        <item>El Confidencial</item>
+        <item>ABC</item>
+        <item>La Vanguardia</item>
+        <item>Ok Diario</item>
+        <item>El Español</item>
+        <item>Libertad Digital</item>
+        <item>El Confidencial Digital</item>
+
+
+
+
+
+
+
+
+    </string-array>
+
+
+</resources>
